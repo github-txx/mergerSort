@@ -1,5 +1,3 @@
-package threadDemo;
-
 import java.util.Arrays;
 
 public class MegerSort {
